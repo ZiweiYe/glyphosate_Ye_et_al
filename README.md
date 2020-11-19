@@ -16,7 +16,7 @@ Fig. 4: R codes Rfigure.R
 
 Fig. 5: R codes Rfigure.R
 
-Table 1: do-file 1_estim.do
+Table 1: do-file 1_estim.do, standard errors are obtained using 7_boot
 
 
 # Supplementary Information
